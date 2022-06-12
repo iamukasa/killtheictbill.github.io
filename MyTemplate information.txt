@@ -1,0 +1,20 @@
+MyTemplate information
+
+Template Name: 
+MyTemplate a General Purpose Bootstrap Responsive Web Template.
+
+Source Files included:  
+HTML files (.html), 
+
+Style Sheets Files:
+font-awesome.min.css,
+animate.css,
+bootstrap.min.css
+
+JQuery plugins:
+bootstrap.min.js
+wow.min.js
+jquery.scrollTo.js
+
+Images:
+*.jpg
