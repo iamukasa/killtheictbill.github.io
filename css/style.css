@@ -344,7 +344,10 @@ address {
     color: #777;
 }
 strong {
-    color: #000;
+   margin-bottom: 20px;
+    font-style: normal;
+    line-height: 1.428571429;
+    color: #777;
 }
 /****************************
  * Animation    			*
